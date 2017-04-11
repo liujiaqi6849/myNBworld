@@ -171,16 +171,7 @@ ul{
 	background: linear-gradient(to left,#fff,#fff) no-repeat left/30% 2px; 
 	
 }
-.slide-toptext-center>span{
-	
-	display:inline-block;
-	
-	padding:0 30px;
-	background-color:none;
-	
-	/*background:url("../img/slide-textbg.png");*/
-	
-}
+
 
 .slide-change{
 	width:100%;
